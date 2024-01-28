@@ -1,0 +1,12 @@
+C:\Users\nalim\source\repos\Тдщп\Тдщп\bin\Debug\NLog.config
+C:\Users\nalim\source\repos\Тдщп\Тдщп\bin\Debug\Тдщп.exe.config
+C:\Users\nalim\source\repos\Тдщп\Тдщп\bin\Debug\Тдщп.exe
+C:\Users\nalim\source\repos\Тдщп\Тдщп\bin\Debug\Тдщп.pdb
+C:\Users\nalim\source\repos\Тдщп\Тдщп\bin\Debug\NLog.dll
+C:\Users\nalim\source\repos\Тдщп\Тдщп\bin\Debug\NLog.xml
+C:\Users\nalim\source\repos\Тдщп\Тдщп\obj\Debug\Тдщп.csproj.AssemblyReference.cache
+C:\Users\nalim\source\repos\Тдщп\Тдщп\obj\Debug\Тдщп.csproj.SuggestedBindingRedirects.cache
+C:\Users\nalim\source\repos\Тдщп\Тдщп\obj\Debug\Тдщп.csproj.CoreCompileInputs.cache
+C:\Users\nalim\source\repos\Тдщп\Тдщп\obj\Debug\Тдщп.csproj.CopyComplete
+C:\Users\nalim\source\repos\Тдщп\Тдщп\obj\Debug\Тдщп.exe
+C:\Users\nalim\source\repos\Тдщп\Тдщп\obj\Debug\Тдщп.pdb
